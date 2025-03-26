@@ -1,1 +1,1 @@
-# create_cheese_factory
+You can submit your translation files here for the mod.
